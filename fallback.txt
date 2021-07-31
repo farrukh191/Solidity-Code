@@ -22,4 +22,4 @@ contract CallFallback{
         _to.transfer(msg.value);
     }
 }
-// using fallback functions
+// using fallback func
